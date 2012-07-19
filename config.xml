@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+xmlns:gap = "http://phonegap.com/ns/1.0"
+id        = "uk.co.headscape"
+version   = "0.0.1">
+
+<!-- versionCode is optional and Android only -->
+
+<name>Phonegap Debug</name>
+
+<description>
+Trying to get it running ...
+</description>
+
+<author>
+Johannes Cox 
+</author>
+<!--
+<preference name="phonegap-version" value="1.8.1"/>
+-->
+<feature name="http://api.phonegap.com/1.0/network"/>
+</widget>
